@@ -1,3 +1,4 @@
-test("Sample Test",()=>{
-console.log("This is from code");
+test("Sample Addition", () => {
+    console.log("Addition of numbers");
+    
 });

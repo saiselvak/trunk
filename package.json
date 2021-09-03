@@ -1,0 +1,26 @@
+{
+  "name": "trunk",
+  "version": "1.0.0",
+  "description": "trunk",
+  "main": "index.js",  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiselvak/trunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiselvak/trunk/issues"
+  },
+  "homepage": "https://github.com/saiselvak/trunk#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.2"
+  }
+}
